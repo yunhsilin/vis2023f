@@ -1,3 +1,5 @@
+// 此份參考 https://observablehq.com/d/f08ce17acc7e82a0
+
 function _1(md){return(
 md`# HW06`
 )}
