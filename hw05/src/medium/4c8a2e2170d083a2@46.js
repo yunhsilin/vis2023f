@@ -1,3 +1,5 @@
+// 此份程式參考 https://github.com/QPeiPeiQ/vis2023f/tree/main/hw05
+
 function _1(md){return(
 md`# HW5 Medium BaseLine`
 )}
